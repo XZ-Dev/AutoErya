@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Selenium2 log
+geckodriver.log
+
+# Pycharm git
+.gitattributes
